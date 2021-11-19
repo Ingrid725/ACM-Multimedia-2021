@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://github.com/Ingrid725/ACM-Multimedia-2021/pir/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/Ingrid725/ACM-Multimedia-2021/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pir"
+                href="https://github.com/Ingrid725/ACM-Multimedia-2021/pir/categories/"
+                />
+  </url>
+  <url>
+    <loc>https://github.com/Ingrid725/ACM-Multimedia-2021/pir/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/Ingrid725/ACM-Multimedia-2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pir"
+                href="https://github.com/Ingrid725/ACM-Multimedia-2021/pir/"
+                />
+  </url>
+  <url>
+    <loc>https://github.com/Ingrid725/ACM-Multimedia-2021/pir/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/Ingrid725/ACM-Multimedia-2021/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pir"
+                href="https://github.com/Ingrid725/ACM-Multimedia-2021/pir/tags/"
+                />
+  </url>
+</urlset>
